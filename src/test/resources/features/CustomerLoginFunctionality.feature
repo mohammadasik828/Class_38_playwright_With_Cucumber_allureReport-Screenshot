@@ -11,7 +11,6 @@ Feature: Customer login functionality
     And I Click on Login Button
     Then Verify that I am in Home Page Slogan Welcome David
     
-    
 #called Test Step
 #Gherkin Language - 
 #which has few keywords ie. Feature, Scenario, Given, When, Then, And, * 
