@@ -50,5 +50,6 @@ public class Base {
 
 	public static void test() {
 		System.out.println("New Line Add");
+		System.out.println("Add more new Line");
 	}
 }
