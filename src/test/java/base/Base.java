@@ -52,5 +52,6 @@ public class Base {
 		System.out.println("New Line Add");
 		System.out.println("Add more new Line");
 		System.out.println("Git Push Update");
+		System.out.println("Git Test And");
 	}
 }
